@@ -33,10 +33,28 @@
 - **메인 코드 통합(merge)**: 팀 `main`(주행/비전/인터랙션/카메라 드라이버)과 관제 브랜치를 충돌 해결하며 병합, 빌드·데모 검증까지 수행
 - WebRTC 로봇 카메라 영상 송신 노드 연동
 
-<!-- 데모 영상/스크린샷 링크를 여기에 추가하면 좋습니다
-### 📷 데모
-![대시보드](docs/screenshot_dashboard.png)
--->
+---
+
+## 📷 데모 & 스크린샷
+
+> 아래 자리에 실제 캡처/영상을 채워 넣으세요. 이미지는 `docs/` 에 넣고 파일명을 맞추면 됩니다.
+
+### 🎬 데모 영상
+<!-- YouTube면 썸네일 클릭 시 재생 -->
+[![데모 영상](docs/demo_thumbnail.png)](https://youtu.be/VIDEO_ID)
+
+<!-- 또는 GIF: docs/demo.gif 저장 후 아래 주석 해제 -->
+<!-- ![데모](docs/demo.gif) -->
+
+### 🖥️ 관제 대시보드 (monitor_server)
+| 실시간 로봇 상태 | 순찰 경로 · 이상감지 3D |
+|:---:|:---:|
+| ![대시보드](docs/screenshot_dashboard.png) | ![3D 시각화](docs/screenshot_viz.png) |
+
+### 🤖 로봇 동작 / 키오스크
+| 에스코트 시나리오 | 키오스크 UI |
+|:---:|:---:|
+| ![에스코트](docs/screenshot_escort.png) | ![키오스크](docs/screenshot_kiosk.png) |
 
 ---
 
