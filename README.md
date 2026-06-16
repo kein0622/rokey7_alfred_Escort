@@ -92,11 +92,13 @@
 | `src/alfred_bridge/` · `alfred_bringup/` · `alfred_interfaces/` | 상태 브릿지 · 기동 · 커스텀 메시지 |
 | `viz_3d/` | 3D 플릿 시각화 |
 
-> 패키지별 상세 구조·인터페이스 정의는 [`README.md`](README.md)(팀 원본 문서) 참고.
+> 패키지별 상세 구조·인터페이스 정의는 [`README_team.md`](README_team.md)(팀 원본 문서) 참고.
 
 ---
 
 ## 🚀 빠른 시작
+
+> 📄 상세 환경 설정(ROS_DOMAIN_ID·RMW·디스커버리 서버·빌드 의존성)은 [`docs/SETUP_env.md`](docs/SETUP_env.md) 참고.
 
 ```bash
 # 1) ROS2 워크스페이스 빌드 (ROS2 Humble)
